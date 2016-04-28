@@ -1,13 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
+
 to make it a git repository
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+possibility to select files to be committed
 only files we want to commit
 How can you use the staging area to make sure you have one commit per logical
 change?
-
+commit after each add 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
@@ -19,3 +20,4 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+easier and faster. but conflicts must be removed
